@@ -1,0 +1,2 @@
+D:\PROJECTS\generateTemplate\mycode.cpp
+D:\PROJECTS\generateTemplate\STDin.cpp
